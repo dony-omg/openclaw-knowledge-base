@@ -23,5 +23,5 @@
 - [[syntheses/openclaw-sessions-study-plan|OpenClaw sessions study plan]]
 - [[syntheses/openclaw-tools-current-state|OpenClaw tools current state]]
 - [[syntheses/openclaw-tools-study-plan|OpenClaw tools study plan]]
-- [[syntheses/roadmap-openclaw-cho-trung|Roadmap dùng OpenClaw cho Trung]]
+- [[syntheses/openclaw-learning-roadmap|Roadmap dùng OpenClaw cho Trung]]
 <!-- openclaw:wiki:syntheses:index:end -->

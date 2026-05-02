@@ -1,34 +1,70 @@
+---
+id: guide.openclaw-home
+pageType: guide
+title: OpenClaw Knowledge Base
+status: active
+updatedAt: 2026-05-02
+sourceIds:
+  - source.openclaw-docs-overview
+---
+
 # OpenClaw Knowledge Base
 
-## Dashboards
+Một bộ tài liệu học OpenClaw theo hướng thực hành, có cấu trúc, và có thể dùng cùng Obsidian + Quartz.
+
+## Bắt đầu từ đây
+
+- [[guides/openclaw-huong-dan-co-ban]]
+- [[guides/openclaw-learning-path]]
 - [[dashboards/openclaw-dashboard-hoc-tap]]
 
 ## Guides
 - [[guides/openclaw-huong-dan-co-ban]]
 - [[guides/openclaw-commands-cheatsheet]]
-- [[guides/openclaw-setup-hien-tai]]
+- [[guides/openclaw-learning-path]]
+- [[guides/openclaw-models-providers-chat-summary]]
+- [[guides/openclaw-daily-summary-usage]]
 
 ## Concepts
 - [[concepts/openclaw-architecture]]
+- [[concepts/openclaw-channel-flow]]
+- [[concepts/openclaw-session-lifecycle]]
+- [[concepts/openclaw-tool-use]]
+- [[concepts/openclaw-models-providers-explained]]
+- [[concepts/openclaw-agents-config-explained]]
+- [[concepts/openclaw-config-security-explained]]
 - [[concepts/openclaw-memory-wiki]]
+- [[concepts/openclaw-memory-wiki-bridge-explained]]
 - [[concepts/openclaw-multi-agent-routing]]
-- [[concepts/openclaw-spawn-session-routing]]
+- [[concepts/openclaw-multi-agent-workflow-explained]]
+- [[concepts/openclaw-automation-heartbeat-explained]]
 
-## System Areas
-- [[reports/index]]
-- [[sources/index]]
-- [[entities/index]]
-- [[concepts/index]]
-- [[syntheses/index]]
+## Entities
+- [[entities/openclaw-project]]
+- [[entities/openclaw-channels]]
+- [[entities/openclaw-sessions]]
+- [[entities/openclaw-tools]]
+- [[entities/openclaw-models-providers]]
+- [[entities/openclaw-agents-config]]
+- [[entities/openclaw-config-security]]
+- [[entities/openclaw-memory-wiki-bridge-mode]]
+- [[entities/openclaw-multi-agent-workflow]]
+- [[entities/openclaw-automation-tasks]]
 
-## Gợi ý cách đọc
-1. `guides/openclaw-huong-dan-co-ban`
-2. `guides/openclaw-commands-cheatsheet`
-3. `concepts/openclaw-architecture`
-4. `concepts/openclaw-multi-agent-routing`
-5. `concepts/openclaw-memory-wiki`
-6. `concepts/openclaw-spawn-session-routing`
-7. `dashboards/openclaw-dashboard-hoc-tap`
+## Syntheses
+- [[syntheses/openclaw-current-state]]
+- [[syntheses/openclaw-roadmap]]
+- [[syntheses/openclaw-next-actions]]
+- [[syntheses/openclaw-learning-roadmap]]
+- [[syntheses/openclaw-models-providers-current-state]]
+- [[syntheses/openclaw-agents-config-current-state]]
+- [[syntheses/openclaw-automation-current-state]]
+
+## Dashboard
+- [[dashboards/openclaw-dashboard-hoc-tap]]
+
+## Personal / local-only notes
+Các note như `daily/`, `templates/`, `reports/`, hoặc setup cá nhân có thể hữu ích cho người viết, nhưng không phải trọng tâm của bộ tài liệu public này.
 
 ## Generated
 <!-- openclaw:wiki:index:start -->
@@ -94,7 +130,7 @@
 - [[syntheses/openclaw-sessions-study-plan|OpenClaw sessions study plan]]
 - [[syntheses/openclaw-tools-current-state|OpenClaw tools current state]]
 - [[syntheses/openclaw-tools-study-plan|OpenClaw tools study plan]]
-- [[syntheses/roadmap-openclaw-cho-trung|Roadmap dùng OpenClaw cho Trung]]
+- [[syntheses/openclaw-learning-roadmap|Roadmap dùng OpenClaw cho Trung]]
 
 ### Reports
 - [[reports/claim-health|Claim Health]]
@@ -104,78 +140,3 @@
 - [[reports/open-questions|Open Questions]]
 - [[reports/stale-pages|Stale Pages]]
 <!-- openclaw:wiki:index:end -->
-
-
-## Project Knowledge
-- [[entities/openclaw-project]]
-- [[syntheses/openclaw-current-state]]
-- [[syntheses/openclaw-roadmap]]
-- [[syntheses/openclaw-next-actions]]
-
-
-## Channel Knowledge
-- [[entities/openclaw-channels]]
-- [[concepts/openclaw-channel-flow]]
-- [[syntheses/openclaw-channels-current-state]]
-- [[syntheses/openclaw-channels-study-plan]]
-
-
-## Tool Knowledge
-- [[entities/openclaw-tools]]
-- [[concepts/openclaw-tool-use]]
-- [[syntheses/openclaw-tools-current-state]]
-- [[syntheses/openclaw-tools-study-plan]]
-
-
-## Session Knowledge
-- [[entities/openclaw-sessions]]
-- [[concepts/openclaw-session-lifecycle]]
-- [[syntheses/openclaw-sessions-current-state]]
-- [[syntheses/openclaw-sessions-study-plan]]
-
-
-## Config & Security Knowledge
-- [[entities/openclaw-config-security]]
-- [[concepts/openclaw-config-security-explained]]
-- [[syntheses/openclaw-config-security-current-state]]
-- [[syntheses/openclaw-config-security-study-plan]]
-
-
-## Multi-Agent Workflow Knowledge
-- [[entities/openclaw-multi-agent-workflow]]
-- [[concepts/openclaw-multi-agent-workflow-explained]]
-- [[syntheses/openclaw-multi-agent-workflow-current-state]]
-- [[syntheses/openclaw-multi-agent-workflow-study-plan]]
-
-
-## Memory-Wiki Bridge Knowledge
-- [[entities/openclaw-memory-wiki-bridge-mode]]
-- [[concepts/openclaw-memory-wiki-bridge-explained]]
-- [[syntheses/openclaw-memory-wiki-bridge-current-state]]
-- [[syntheses/openclaw-memory-wiki-bridge-study-plan]]
-
-
-## Models & Providers Knowledge
-- [[entities/openclaw-models-providers]]
-- [[concepts/openclaw-models-providers-explained]]
-- [[syntheses/openclaw-models-providers-current-state]]
-- [[syntheses/openclaw-models-providers-study-plan]]
-
-
-## Agents Config Knowledge
-- [[entities/openclaw-agents-config]]
-- [[concepts/openclaw-agents-config-explained]]
-- [[syntheses/openclaw-agents-config-current-state]]
-- [[syntheses/openclaw-agents-config-study-plan]]
-
-
-## Automation & Tasks Knowledge
-- [[entities/openclaw-automation-tasks]]
-- [[concepts/openclaw-automation-heartbeat-explained]]
-- [[syntheses/openclaw-automation-current-state]]
-- [[syntheses/openclaw-automation-study-plan]]
-
-
-## Templates
-- [[templates/openclaw-daily-summary-template]]
-- [[guides/openclaw-daily-summary-usage]]

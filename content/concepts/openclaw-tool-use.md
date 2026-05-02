@@ -89,5 +89,5 @@ Tools cho agent sức mạnh thật, nên:
 - [[concepts/openclaw-session-lifecycle|OpenClaw session lifecycle]]
 - [[entities/openclaw-sessions|OpenClaw sessions]]
 - [[concepts/openclaw-thuc-hanh-ca-nhan|OpenClaw từ góc nhìn thực hành cá nhân]]
-- [[syntheses/roadmap-openclaw-cho-trung|Roadmap dùng OpenClaw cho Trung]]
+- [[syntheses/openclaw-learning-roadmap|Roadmap dùng OpenClaw cho Trung]]
 <!-- openclaw:wiki:related:end -->

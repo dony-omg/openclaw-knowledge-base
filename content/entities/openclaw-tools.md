@@ -65,5 +65,5 @@ Tools biến agent từ một chat model thành một hệ thống có thể hà
 - [[entities/openclaw-sessions|OpenClaw sessions]]
 - [[concepts/openclaw-tool-use|OpenClaw tool use]]
 - [[concepts/openclaw-thuc-hanh-ca-nhan|OpenClaw từ góc nhìn thực hành cá nhân]]
-- [[syntheses/roadmap-openclaw-cho-trung|Roadmap dùng OpenClaw cho Trung]]
+- [[syntheses/openclaw-learning-roadmap|Roadmap dùng OpenClaw cho Trung]]
 <!-- openclaw:wiki:related:end -->

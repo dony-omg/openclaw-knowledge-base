@@ -68,7 +68,7 @@ openclaw wiki search "memory"
 
 - [[entities/openclaw-memory-wiki-bridge-mode|OpenClaw memory-wiki bridge mode]]
 - [[entities/openclaw-project|OpenClaw project]]
-- [[syntheses/roadmap-openclaw-cho-trung|Roadmap dùng OpenClaw cho Trung]]
+- [[syntheses/openclaw-learning-roadmap|Roadmap dùng OpenClaw cho Trung]]
 
 ### Related Pages
 

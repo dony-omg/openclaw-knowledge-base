@@ -41,7 +41,7 @@ Với Trung, OpenClaw có thể được dùng như:
 
 ### Referenced By
 
-- [[syntheses/roadmap-openclaw-cho-trung|Roadmap dùng OpenClaw cho Trung]]
+- [[syntheses/openclaw-learning-roadmap|Roadmap dùng OpenClaw cho Trung]]
 
 ### Related Pages
 
