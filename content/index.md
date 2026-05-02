@@ -10,18 +10,37 @@ sourceIds:
 
 # OpenClaw Knowledge Base
 
-Một bộ tài liệu học OpenClaw theo hướng thực hành, có cấu trúc, và có thể dùng cùng Obsidian + Quartz.
+A practical learning knowledge base for OpenClaw, designed for people who want to understand the system, use it with Obsidian, and gradually build more advanced workflows.
 
-## Bắt đầu từ đây
+## Who is this for?
+
+This knowledge base is for:
+- developers exploring OpenClaw
+- people building a personal AI workflow
+- users combining OpenClaw with Obsidian and Quartz
+- learners who prefer structured notes over random scattered docs
+
+## What you will learn
+
+- what OpenClaw is and how it works
+- channels, sessions, tools, routing, and memory
+- models, providers, and agent design
+- memory-wiki and bridge mode
+- automation, heartbeat, and tasks
+- how to turn notes into a public learning site with Quartz
+
+## Start here
 
 - [[guides/openclaw-huong-dan-co-ban]]
+- [[guides/what-to-read-first]]
 - [[guides/openclaw-learning-path]]
 - [[dashboards/openclaw-dashboard-hoc-tap]]
 
 ## Guides
 - [[guides/openclaw-huong-dan-co-ban]]
-- [[guides/openclaw-commands-cheatsheet]]
+- [[guides/what-to-read-first]]
 - [[guides/openclaw-learning-path]]
+- [[guides/openclaw-commands-cheatsheet]]
 - [[guides/openclaw-models-providers-chat-summary]]
 - [[guides/openclaw-daily-summary-usage]]
 
@@ -63,8 +82,8 @@ Một bộ tài liệu học OpenClaw theo hướng thực hành, có cấu trú
 ## Dashboard
 - [[dashboards/openclaw-dashboard-hoc-tap]]
 
-## Personal / local-only notes
-Các note như `daily/`, `templates/`, `reports/`, hoặc setup cá nhân có thể hữu ích cho người viết, nhưng không phải trọng tâm của bộ tài liệu public này.
+## Notes on scope
+This public-facing structure focuses on reusable learning content. Personal notes such as `daily/`, `templates/`, and some local setup details are helpful for the authoring workflow, but are not the core learning path for readers.
 
 ## Generated
 <!-- openclaw:wiki:index:start -->
